@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class BreakableWall : MonoBehaviour
 {
-    [SerializeField]GameObject wall;
-    [SerializeField]GameObject bricks;
+    [SerializeField]GameObject wall = null;
+    [SerializeField]GameObject bricks = null;
      bool moving=false;
      float counter=10;
     private void OnTriggerEnter(Collider other) {
