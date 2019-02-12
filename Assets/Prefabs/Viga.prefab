@@ -13,9 +13,10 @@ GameObject:
   - component: {fileID: 155978190}
   - component: {fileID: 155978188}
   - component: {fileID: 155978189}
+  - component: {fileID: 9195384184338374607}
   m_Layer: 0
   m_Name: Viga
-  m_TagString: Untagged
+  m_TagString: BuildingObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -108,3 +109,15 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.25, y: 2.0000002, z: 0.25000006}
   m_Center: {x: -0.0000010579824, y: 0.000003874303, z: 0.12500301}
+--- !u!114 &9195384184338374607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 155978187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10e152c35df4bf245b3a8cfce06d253b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
