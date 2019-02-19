@@ -1,30 +1,14 @@
 fileFormatVersion: 2
-guid: acc4947105fa86344b22b137a0c87450
+guid: e91f3a8bb7cd0354ea85b2d82a7c0971
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Box001
-    100002: Box002
-    100004: Box003
-    100006: Box004
-    100008: //RootNode
-    400000: Box001
-    400002: Box002
-    400004: Box003
-    400006: Box004
-    400008: //RootNode
-    2100000: No Name
-    2300000: Box002
-    2300002: Box003
-    2300004: Box004
-    2300006: //RootNode
-    3300000: Box002
-    3300002: Box003
-    3300004: Box004
-    3300006: //RootNode
-    4300000: Box002
-    4300002: Box003
-    4300004: Box004
+    100000: //RootNode
+    400000: //RootNode
+    2100000: 02 - Default
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Terraza3
   externalObjects: {}
   materials:
     importMaterials: 1
