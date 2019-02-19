@@ -1,30 +1,37 @@
 fileFormatVersion: 2
-guid: acc4947105fa86344b22b137a0c87450
+guid: d067211ab61d5d84397ace6db53057db
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Box001
-    100002: Box002
-    100004: Box003
-    100006: Box004
-    100008: //RootNode
-    400000: Box001
-    400002: Box002
-    400004: Box003
-    400006: Box004
-    400008: //RootNode
-    2100000: No Name
-    2300000: Box002
-    2300002: Box003
-    2300004: Box004
-    2300006: //RootNode
-    3300000: Box002
-    3300002: Box003
-    3300004: Box004
-    3300006: //RootNode
-    4300000: Box002
-    4300002: Box003
-    4300004: Box004
+    100000: //RootNode
+    100002: tile_center
+    100004: tile_ne
+    100006: tile_nw
+    100008: tile_se
+    100010: tile_sw
+    400000: //RootNode
+    400002: tile_center
+    400004: tile_ne
+    400006: tile_nw
+    400008: tile_se
+    400010: tile_sw
+    2100000: 01 - Default
+    2100002: 02 - Default
+    2300000: tile_center
+    2300002: tile_ne
+    2300004: tile_nw
+    2300006: tile_se
+    2300008: tile_sw
+    3300000: tile_center
+    3300002: tile_ne
+    3300004: tile_nw
+    3300006: tile_se
+    3300008: tile_sw
+    4300000: tile_center
+    4300002: tile_nw
+    4300004: tile_ne
+    4300006: tile_sw
+    4300008: tile_se
   externalObjects: {}
   materials:
     importMaterials: 1
